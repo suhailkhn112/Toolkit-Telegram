@@ -5,9 +5,9 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
+        API_HASH = "a781e1bb0badd5469c59f04f2f2967bb"
+        API_ID = 7040250
+        BOT_TOKEN = "5384273883:AAF_wjxLqyta1G2yA5PROTX4q8DUZSMwZGE"
         BASE_URL_OF_BOT = ""
 
         # Edit the server port if you want to keep it default though.
@@ -15,7 +15,7 @@ except:
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = []
-        OWNER_ID = 0
+        OWNER_ID = 584131951
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
@@ -42,8 +42,8 @@ except:
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
-        MEGA_ENABLE = False
-        MEGA_API = ""
+        MEGA_ENABLE = True
+        MEGA_API = "DTgBSSBS"
         MEGA_UNAME = None
         MEGA_PASS = None
 
